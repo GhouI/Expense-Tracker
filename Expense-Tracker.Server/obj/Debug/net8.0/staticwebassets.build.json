@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "luZFabB8KoS2Q7RVUT6cWPOhp8L3cCvJahtBX5x0ltQ=",
+  "Source": "Expense-Tracker.Server",
+  "BasePath": "_content/Expense-Tracker.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\abdul\\source\\repos\\Expense-Tracker\\expense-tracker.client\\expense-tracker.client.esproj",
+      "Version": 2,
+      "Source": "expense-tracker.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

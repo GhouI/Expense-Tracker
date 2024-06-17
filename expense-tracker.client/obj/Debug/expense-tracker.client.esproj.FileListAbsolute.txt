@@ -1,0 +1,1 @@
+C:\Users\abdul\source\repos\Expense-Tracker\expense-tracker.client\obj\Debug\expense-tracker.client.esproj.CoreCompileInputs.cache
